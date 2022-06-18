@@ -5,16 +5,16 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-10T11:51:25.086Z",
-    "end": "2022-06-10T11:51:25.582Z",
-    "duration": 496
+    "start": "2022-06-18T13:56:42.141Z",
+    "end": "2022-06-18T13:56:46.810Z",
+    "duration": 4669
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -32,7 +32,7 @@
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -41,7 +41,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -59,7 +59,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -72,7 +72,7 @@
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -90,7 +90,7 @@
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +99,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -117,7 +117,7 @@
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
       "file": "/home/mutemip/development/code/phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
